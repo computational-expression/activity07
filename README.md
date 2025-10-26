@@ -160,17 +160,6 @@ The `main.py` file already includes a **complete main function** that shows you 
 - **Test each function** - The main function will help you see if your functions work
 - **Run the program** - You can test your progress as you implement each function
 
-### **Example Function Implementation:**
-```python
-def calculate_candy_needed(spectators, pieces_per_person):
-    """Calculate total candy pieces needed for parade spectators"""
-    return spectators * pieces_per_person
-
-def pieces_to_bags(total_pieces, pieces_per_bag):
-    """Convert candy pieces to number of bags needed"""
-    return total_pieces / pieces_per_bag
-```
-
 ## Steps to Complete
 
 ### 🔄 **Git Setup & Collaboration**
@@ -223,7 +212,3 @@ This activity is assessed on a **pass/fail basis**:
 - **Add emojis strategically** - see the emoji guide above for ideas!
 - **Collaborate effectively** - communicate who's working on what functions
 - **Test your Git workflow** early to avoid last-minute issues
-
-## Local Halloween Connection
-
-This calculator is inspired by Meadville's 58th Annual Halloween Parade that just happened on October 25th! The parade features floats and costumed participants who throw candy to spectators lining the parade route. This year's theme "Under the Sea" means lots of mermaid, pirate, and sea creature floats distributing candy to excited crowds along Diamond Park. Use sea-themed float ideas like underwater kingdoms, pirate ships, or coral reefs in your examples!
