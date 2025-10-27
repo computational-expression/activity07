@@ -182,6 +182,8 @@ The `main.py` file already includes a **complete main function** that shows you 
 2. **After completing functions:** `git add src/main.py` → `git commit -m "message"` → `git push`
 3. **When integrating:** `git pull` to get teammates' work
 4. **If conflicts occur:** Work together to resolve them - this is great practice!
+   - **VS Code:** Open the conflicted file and click "Accept Both Changes" to merge both functions automatically
+   - **Or:** Edit the file manually to keep both functions and remove conflict markers (`<<<<<<<`, `=======`, `>>>>>>>`)
 
 **Communication is Key:**
 - **Announce** which functions you are working on to avoid conflicts
