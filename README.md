@@ -179,7 +179,7 @@ The `main.py` file already includes a **complete main function** that shows you 
 
 **Basic Git Workflow for this Activity:**
 1. **Before starting work:** `git pull` or `git pull origin main`
-2. **After completing functions:** `git add .` → `git commit -m "message"` → `git push`
+2. **After completing functions:** `git add src/main.py` → `git commit -m "message"` → `git push`
 3. **When integrating:** `git pull` to get teammates' work
 4. **If conflicts occur:** Work together to resolve them - this is great practice!
 
